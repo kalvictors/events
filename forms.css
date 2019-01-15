@@ -1,0 +1,55 @@
+#login form{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 40px;
+}
+
+#login h3{
+    text-align: center;
+}
+
+#login p{
+    margin-left: 70px;
+    font-size: 17px;
+    padding-right: 30px;
+}
+
+form input{
+    margin-left:5px;
+    height: 30px;
+}
+
+#pswd{
+    margin-left: 8px;
+}
+
+form a{
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+    margin-left: 100px;
+    /* margin-left: 5px; */
+}
+
+#signup{
+    background-color: grey;
+}
+
+#login{
+    margin: 0; 
+    margin-left: 30%; 
+    margin-right: 30%;
+    margin-top: 90px; 
+    padding-top: 10px; 
+    width: 30%; 
+    height: 400px; 
+    position: absolute; 
+    background: snow; 
+    border: solid #000000 2px; 
+    z-index: 9; 
+    font-family: arial; 
+    
+}
