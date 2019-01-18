@@ -21,6 +21,15 @@ body{
     padding: 10px;
 }
 
+.heading ul  li ul a{
+    padding: 3px;
+    background-color: black;
+    color: white;
+    line-height: 20px;
+    font-size: 15px;
+    text-transform: lowercase;
+}
+
 .heading ul a{
     text-decoration: none;
     color: black;
@@ -37,16 +46,10 @@ body{
    
 }
 
-.heading ul a li ul{
+.heading ul li ul{
     display: none;
     font-size: 13px;
-    margin-top: 7px;
-}
-
-.heading ul a li ul li{
-    background-color: black;
-    color: white;
-    line-height: 20px;
+    margin-top: 2px;
 }
 
 
@@ -97,7 +100,7 @@ body{
 #frontbg{
     background-color: #222;
     padding: 10px;
-    height: 800px;
+    height: 820px;
     color: white;
     margin-top: -14px;
 }
